@@ -1,17 +1,8 @@
-[Program-1: WAP to create a Calculator]#assi-1
-[Program-2: WAP to show Command Line Arguments]#assi-2
+[Program-1: WAP to create a Calculator](#code-1)
+[Program-2: WAP to show Command Line Arguments](#code-2)
 
 
-
-
-
-
-
-
-
-
-
-##assi-1
+## code-1
 ```
 public class Calc {
     public static void main(String[] args){
@@ -43,7 +34,7 @@ public class Calc {
 <img width="917" height="239" alt="image" src="https://github.com/user-attachments/assets/84d6b717-5c20-4d8e-96b7-054ca24cd9d4" /> 
 
 
-##assi-2
+## code-2
 ```
 public class Cla {
     public static void main(String[] args){
